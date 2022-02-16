@@ -5,9 +5,10 @@ Unity projekts ar UI elementu lietojumu
 - [x] Button elements
 - [x] Text elements
 - [x] Input Field elements
-- [ ] Toggle elements
-- [ ] Image elements
+- [x] Toggle elements
+- [x] Image elements
 - [ ] Panel elements
 - [ ] Slider elements
 - [ ] Audio source elements
+- [ ] Drop down elements
 - [x] C# Skrptu izveide
