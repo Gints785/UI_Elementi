@@ -14,5 +14,10 @@ public class TekstaParadisana : MonoBehaviour {
 	public void darbibasArTeksu(){
 		teksts = ievadesLauks.GetComponent<Text>().text;
 		tekstaAttelasanasLauks.GetComponent<Text>().text ="Sveiks "+teksts.ToUpper()+"!";
+
+
+
+
+
 	}
 }
